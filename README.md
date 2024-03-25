@@ -4,7 +4,7 @@ ComfyUI CPlus Control Box custom node
 #### Visit my [AI Image Gallery](https://ko-fi.com/ardenius/gallery)
 #### Become a Member to get [Free AI Models, Embedding, Workflows](https://ko-fi.com/ardenius/tiers) and more perks to come. 
 
-## [CPlus control box for ComfyUI Download Link](https://ko-fi.com/s/2e67e2ae70)
+## [CPlus control box for ComfyUI Download Link from ko-fi page (or this page)](https://ko-fi.com/s/2e67e2ae70)
 ## what does this Custom node do ?
 the CPlus control box gets a model and prompts input and outputs:
 model, positive, negative, latent image, seed, width, height, cfg, steps, denoise, scaler, clip, vae
