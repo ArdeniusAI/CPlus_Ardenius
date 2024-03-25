@@ -2,7 +2,7 @@
 ComfyUI CPlus Control Box custom node
 #### Donations help in imporoving and making new free custom nodes and other software at [Coffee Page](https://ko-fi.com/ardenius) 
 #### Change the mood ! by Visiting my [AI Image Gallery](https://ko-fi.com/ardenius/gallery)
-#### Become a Member to get [Free Custom nodes, AI Models, Embedding, Workflows, Image prompts, and more exclusive content at ](https://ko-fi.com/ardenius/tiers) and more perks to come. 
+#### See Member Perks [Free Custom nodes, AI Models, Embedding, Workflows, Image prompts, and exclusive content](https://ko-fi.com/ardenius/tiers). 
 
 ## [Donload link CPlus control box for ComfyUI](https://ko-fi.com/s/2e67e2ae70)
 ## what does this Custom node do ?
