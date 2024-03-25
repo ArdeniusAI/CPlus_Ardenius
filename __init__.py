@@ -9,7 +9,7 @@
 #  ➡️ follow me at https://ko-fi.com/ardenius on the top right corner (follow)
 #  📸 Change the mood ! by Visiting my AI Image Gallery
 #  🏆 Premium Memebers only Perks (Premium SD Models, ComfyUI custom nodees, and more to come)
-#  below code is in part or in full based upon ComfyUI code licensed under General Public License v3.0 https://www.gnu.org/licenses/gpl-3.0.txt by
+#  the below code is in part or in full is based upon ComfyUI code licensed under General Public License v3.0 https://www.gnu.org/licenses/gpl-3.0.txt by
 #  contributers found here https://github.com/comfyanonymous/ComfyUI
 
 from .CPlus_control_box import Control_Box
