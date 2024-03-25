@@ -1,9 +1,16 @@
-#  this software and code © 2024 is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International
-#  ( owner contact information ardenius7@gmail.com attribution link https://ko-fi.com/ardenius )
-#  FREE FOR PERSONAL USE -- FOR COMMERCIAL USE 	visit https://ko-fi.com/ardenius
-#  and is based upon code licensed under General Public License v3.0 https://www.gnu.org/licenses/gpl-3.0.txt by 
+"""
+@author: initials AMA
+@title: Ardenius
+@nickname: Ardenius
+@description: CPlus control box is designed to gather workflow variables into 1 node.
+"""
+#  this software and code © 2024 is licensed under GPL V3.0 
+#  ( author contact information ardenius7@gmail.com attribution link https://ko-fi.com/ardenius )
+#  ➡️ follow me at https://ko-fi.com/ardenius on the top right corner (follow)
+#  📸 Change the mood ! by Visiting my AI Image Gallery
+#  🏆 Premium Memebers only Perks (Premium SD Models, ComfyUI custom nodees, and more to come)
+#  below code is in part or in full based upon ComfyUI code licensed under General Public License v3.0 https://www.gnu.org/licenses/gpl-3.0.txt by
 #  contributers found here https://github.com/comfyanonymous/ComfyUI
-#  thus all code here is released to the user.
 
 from .CPlus_control_box import Control_Box
 
