@@ -1,6 +1,6 @@
 # CPlus_Ardenius ComfyUI Control Box ( 1 node to have control over your workflow )
 ComfyUI CPlus Control Box custom node
-#### Donations are highly appreciated to allow for future custom nodes and further development visit [Coffee Page](https://ko-fi.com/ardenius) 
+#### Donations help in imporoving and making new free custom nodes and other software at [Coffee Page](https://ko-fi.com/ardenius) 
 #### Change the mood ! by Visiting my [AI Image Gallery](https://ko-fi.com/ardenius/gallery)
 #### Become a Member to get [Free Custom nodes, AI Models, Embedding, Workflows, Image prompts, and more exclusive content at ](https://ko-fi.com/ardenius/tiers) and more perks to come. 
 
