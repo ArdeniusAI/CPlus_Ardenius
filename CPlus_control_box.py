@@ -4,7 +4,7 @@
 @nickname: Ardenius
 @description: CPlus control box is designed to gather workflow variables into 1 node.
 """
-#  this software and code © 2024 is licensed under GPL V3.0 
+#  this software and code © 2024 initals AMA nickname Ardenius is licensed under GPL V3.0 
 #  ( author contact information ardenius7@gmail.com attribution link https://ko-fi.com/ardenius )
 #  ➡️ follow me at https://ko-fi.com/ardenius on the top right corner (follow)
 #  📸 Change the mood ! by Visiting my AI Image Gallery
