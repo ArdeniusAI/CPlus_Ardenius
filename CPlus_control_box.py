@@ -2,7 +2,7 @@
 @author: initials AMA
 @title: Ardenius
 @nickname: Ardenius
-@description: CPlus control box is designed to gather workflow variables into 1 node.
+@description: CPlus control box is designed to gather workflow variables into 1 node for easier control of your workflow.
 """
 #  this software and code © 2024 initals AMA nickname Ardenius is licensed under GPL V3.0 
 #  ( author contact information ardenius7@gmail.com attribution link https://ko-fi.com/ardenius )
