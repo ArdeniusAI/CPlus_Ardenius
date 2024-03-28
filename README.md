@@ -12,6 +12,7 @@ model, positive, negative, latent image, seed, width, height, cfg, steps, denois
 ![](https://storage.ko-fi.com/cdn/useruploads/display/6f0dddf9-0697-4ef0-a772-2f189e0de6e2_comfyui_cplus_control_box.jpg)
 
 ### Manual install
+IMPORTANT: if you download the zip file make sure to rename the folder to ( CPlus_Ardenius ) instead of ( CPlus_Ardenius-main ) without the -main at the end
 1. click on the green button above ( Code )
 2. download zip file
 3. extract the zip file
