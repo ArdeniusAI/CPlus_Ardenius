@@ -1,0 +1,14 @@
+[project]
+name = "cplus_ardenius"
+description = "1 node to have control over your workflow."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ArdeniusAI/CPlus_Ardenius"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "CPlus_Ardenius"
+Icon = ""
